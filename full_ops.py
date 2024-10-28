@@ -71,7 +71,7 @@ def full_ops(c_in, n_wv):
   return muls, adds
   
 # initialize script arguments
-c_out = None
+c_in = None
 n_wv = None
 
 # parse script arguments
